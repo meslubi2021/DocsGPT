@@ -96,7 +96,7 @@ tenacity==8.2.2
 threadpoolctl==3.1.0
 tiktoken
 tqdm==4.65.0
-transformers==4.30.0
+transformers==4.36.0
 typer==0.7.0
 typing-inspect==0.8.0
 typing_extensions==4.5.0
