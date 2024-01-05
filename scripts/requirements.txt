@@ -72,7 +72,7 @@ py==1.11.0
 pyasn1==0.5.0
 pycares==4.3.0
 pycparser==2.21
-pycryptodomex==3.18.0
+pycryptodomex==3.19.1
 Pygments==2.15.1
 PyJWT==2.8.0
 PyPDF2==3.0.1
