@@ -40,7 +40,7 @@ httpx==0.24.1
 hub==3.0.1
 huggingface-hub==0.16.4
 humbug==0.3.2
-idna==3.4
+idna==3.7
 imagesize==1.4.1
 itsdangerous==2.1.2
 javalang==0.13.0
